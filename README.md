@@ -51,6 +51,7 @@
   Check if average is greater than or equal to 50.0f
 
   If yes, print Grade C.
+  
   Else, print Grade F.
 ### Step 11:
   Stop
